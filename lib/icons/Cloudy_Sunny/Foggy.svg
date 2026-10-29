@@ -1,0 +1,33 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M63 5L63 9" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke="#FCFC07"/>
+<path d="M63 53C74.0457 53 83 44.0457 83 33C83 21.9543 74.0457 13 63 13C51.9543 13 43 21.9543 43 33C43 44.0457 51.9543 53 63 53Z" fill="#FCFC07"/>
+<path d="M91 33L87 33" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke="#FCFC07"/>
+<path d="M83.5 13L80 16.5" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke="#FCFC07"/>
+<path d="M46.5 16.5L43 13" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke="#FCFC07"/>
+<use xlink:href="#stroke0_12_13732" fill="url(#paint0_linear_12_13732)"/>
+<mask id="stroke1_12_13732" fill="white">
+<use xlink:href="#stroke0_12_13732"/>
+</mask>
+<path d="M36.7188 24.8437C41.6994 24.8336 46.5881 26.1849 50.8566 28.7515C55.125 31.3181 58.6109 35.0024 60.9375 39.4062C63.7878 37.7397 66.9838 36.7526 70.2775 36.5215C73.5711 36.2903 76.8737 36.8214 79.9288 38.0735C82.9839 39.3256 85.7093 41.265 87.8935 43.7411C90.0776 46.2172 91.6616 49.1634 92.5225 52.3509C93.3835 55.5384 93.4982 58.8815 92.8578 62.1205C92.2173 65.3595 90.8389 68.4074 88.8297 71.0274C86.8204 73.6474 84.2344 75.769 81.2723 77.2276C78.3101 78.6861 75.0517 79.4423 71.75 79.4375L36.7188 79.5312C29.4667 79.5312 22.5117 76.6504 17.3838 71.5224C12.2559 66.3945 9.375 59.4395 9.375 52.1875C9.375 44.9355 12.2559 37.9805 17.3838 32.8525C22.5117 27.7246 29.4667 24.8437 36.7188 24.8437Z" stroke-width="2" stroke="#8FDAFF" stroke-opacity="0.1" mask="url(#stroke1_12_13732)"/>
+<use xlink:href="#stroke2_12_13732" fill="url(#paint1_linear_12_13732)"/>
+<mask id="stroke3_12_13732" fill="white">
+<use xlink:href="#stroke2_12_13732"/>
+</mask>
+<path d="M77.485 37.2504C88.9129 40.4433 95.5886 52.2957 92.3958 63.7235C89.2029 75.1514 77.3505 81.8271 65.9227 78.6343C54.4948 75.4414 47.819 63.589 51.0119 52.1612C54.2048 40.7333 66.0572 34.0575 77.485 37.2504Z" stroke-width="2" stroke="#8FDAFF" stroke-opacity="0.1" mask="url(#stroke3_12_13732)"/>
+<path d="M59.125 85.1562H75.0938" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke="#A5A9AA"/>
+<path d="M24.9062 85.1562H51.1563" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke="#B9C1C6"/>
+<path d="M51.9219 92.9688H69.6094" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke="#A5A9AA"/>
+<path d="M31.1875 92.9688H43.2031" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke="#A5A9AA"/>
+<defs>
+<linearGradient id="paint0_linear_12_13732" x1="29.8987" y1="81.8594" x2="62.8549" y2="39.1992" gradientUnits="userSpaceOnUse">
+<stop stop-color="#75D1FF" stop-opacity="0.95"/>
+<stop offset="1" stop-color="#EBF8FF"/>
+</linearGradient>
+<linearGradient id="paint1_linear_12_13732" x1="80.489" y1="50.3059" x2="55.5857" y2="71.9661" gradientUnits="userSpaceOnUse">
+<stop offset="0.02" stop-color="#8FDAFF"/>
+<stop offset="1" stop-color="#E0F5FF" stop-opacity="0"/>
+</linearGradient>
+<path id="stroke0_12_13732" d="M36.7188 24.8437C41.6994 24.8336 46.5881 26.1849 50.8566 28.7515C55.125 31.3181 58.6109 35.0024 60.9375 39.4062C63.7878 37.7397 66.9838 36.7526 70.2775 36.5215C73.5711 36.2903 76.8737 36.8214 79.9288 38.0735C82.9839 39.3256 85.7093 41.265 87.8935 43.7411C90.0776 46.2172 91.6616 49.1634 92.5225 52.3509C93.3835 55.5384 93.4982 58.8815 92.8578 62.1205C92.2173 65.3595 90.8389 68.4074 88.8297 71.0274C86.8204 73.6474 84.2344 75.769 81.2722 77.2276C78.3102 78.6861 75.0517 79.4423 71.75 79.4375L36.7188 79.5312C29.4667 79.5312 22.5117 76.6504 17.3838 71.5224C12.2559 66.3945 9.375 59.4395 9.375 52.1875C9.375 44.9355 12.2559 37.9805 17.3838 32.8525C22.5117 27.7246 29.4667 24.8437 36.7188 24.8437Z"/>
+<path id="stroke2_12_13732" d="M92.3958 63.7235C95.5886 52.2957 88.9129 40.4433 77.485 37.2504C66.0572 34.0575 54.2048 40.7333 51.0119 52.1612C47.819 63.589 54.4948 75.4414 65.9227 78.6343C77.3505 81.8271 89.2029 75.1514 92.3958 63.7235Z"/>
+</defs>
+</svg>
